@@ -1,5 +1,5 @@
 _____Dự án Quản lý thư viện_____
----------------------------------------------
+
 Có một menu thực hiện các chức năng bao gồm:<br>
 1.Nhập vào sách mới (Vào cuối dãy sách)<br>
 2. Hiển thị tất cả loại sách hiện có<br>
@@ -10,5 +10,5 @@ Có một menu thực hiện các chức năng bao gồm:<br>
 7. Xóa sách theo id<br>
 8. Upload sách từ file<br>
 0. Thoát<br>
----------------------------------------------
+
 
